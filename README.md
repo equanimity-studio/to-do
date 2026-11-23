@@ -6,6 +6,8 @@ A to-do list app with projects, priorities, due dates and editable notes, built 
 
 Built with HTML, CSS and vanilla JavaScript, bundled with webpack.
 
+> **Note:** All of the code in this repository is my own, written by hand in 2023 without AI assistance. This README was updated in 2026 with help from Claude.
+
 ## Features
 
 - Create to-dos with a title, details, due date and priority level
